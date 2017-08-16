@@ -24,23 +24,23 @@ Lesson 5 - Prefix Sums - Complete
 - GenomicRangeQuery - https://codility.com/demo/results/trainingZ47Q2A-CUW/
 - MinAvgTwoSlice - https://codility.com/demo/results/trainingU6BWPU-ADW/
 
-Lesson 6 - Sorting
+Lesson 6 - Sorting - Complete
 - Triangle - https://codility.com/demo/results/training5FCWC6-F95/
 - Distinct - https://codility.com/demo/results/trainingWPEYF6-TC9/
 - MaxProductOfThree - https://codility.com/demo/results/trainingR637FP-8XS/
 - NumberOfDiscIntersections - https://codility.com/demo/results/trainingDQZTYA-ZGD/
 
-Lesson 7 - Stacks and Queues
+Lesson 7 - Stacks and Queues - Complete
 - Brackets - https://codility.com/demo/results/trainingRQ4V9Q-PWX/
 - Fish - https://codility.com/demo/results/trainingYGH5E7-N5G/
 - StoneWall - https://codility.com/demo/results/trainingYYWY68-ZVH/
 - Nesting - https://codility.com/demo/results/trainingV9B3AN-2QW/
 
-Lesson 8 - Leader
+Lesson 8 - Leader - Complete
 - EquiLeader - https://codility.com/demo/results/trainingV5AZPJ-J9X/
 - Dominator - https://codility.com/demo/results/trainingKNH5G4-FX9/
 
-Lesson 9 - Maximum slice problem
+Lesson 9 - Maximum slice problem - Complete
 - MaxDoubleSliceSum - https://codility.com/demo/results/trainingUY3GP9-J3Q/
 - MaxProfit - https://codility.com/demo/results/training34TMJW-JT9/
 - MaxSliceSum - https://codility.com/demo/results/trainingTXHJSZ-DXF/
