@@ -1,6 +1,6 @@
-Lesson 9 - Maximum slice problem - MaxProfit
+#Lesson 9 - Maximum slice problem - MaxProfit
 
-Task description
+#Task description
 
 A zero-indexed array A consisting of N integers is given. It contains daily prices of a stock share for a period of N consecutive days. If a single share was bought on day P and sold on day Q, where 0 ≤ P ≤ Q < N, then the profit of such transaction is equal to A[Q] − A[P], provided that A[Q] ≥ A[P]. Otherwise, the transaction brings loss of A[P] − A[Q].
 
@@ -40,7 +40,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

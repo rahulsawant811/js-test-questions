@@ -1,6 +1,6 @@
-Lesson 10 - Prime and composite numbers - Flags
+#Lesson 10 - Prime and composite numbers - Flags
 
-Task description
+#Task description
 
 A non-empty zero-indexed array A consisting of N integers is given.
 
@@ -67,7 +67,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

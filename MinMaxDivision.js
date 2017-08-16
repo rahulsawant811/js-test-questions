@@ -1,6 +1,6 @@
-Lesson 14 - Binary search algorithm - MinMaxDivision
+#Lesson 14 - Binary search algorithm - MinMaxDivision
 
-Task description
+#Task description
 
 You are given integers K, M and a non-empty zero-indexed array A consisting of N integers. Every element of the array is not greater than M.
 
@@ -55,7 +55,7 @@ expected worst-case time complexity is O(N*log(N+M));
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(K, M, A) {
     // write your code in JavaScript (Node.js 4.0.0)

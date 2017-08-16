@@ -1,6 +1,6 @@
-Lesson 10 - Prime and composite numbers - CountFactors
+#Lesson 10 - Prime and composite numbers - CountFactors
 
-Task description
+#Task description
 
 A positive integer D is a factor of a positive integer N if there exists an integer M such that N = D * M.
 
@@ -22,7 +22,7 @@ Complexity:
 expected worst-case time complexity is O(sqrt(N));
 expected worst-case space complexity is O(1).
 
-Code:
+#Code:
 
 function solution(N) {
     // write your code in JavaScript (Node.js 4.0.0)

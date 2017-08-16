@@ -1,6 +1,7 @@
-Lesson 5 - Prefix Sums - CountDiv
+#Lesson 5 - Prefix Sums - CountDiv
 
-Task description
+#Task description
+
 Write a function:
 
 function solution(A, B, K);
@@ -21,7 +22,7 @@ Complexity:
 expected worst-case time complexity is O(1);
 expected worst-case space complexity is O(1).
 
-Code:
+#Code:
 
 function solution(A, B, K) {
     // write your code in JavaScript (Node.js 4.0.0)

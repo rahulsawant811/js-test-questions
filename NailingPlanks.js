@@ -1,6 +1,6 @@
-Lesson 14 - Binary search algorithm - NailingPlanks
+#Lesson 14 - Binary search algorithm - NailingPlanks
 
-Task description
+#Task description
 
 You are given two non-empty zero-indexed arrays A and B consisting of N integers. These arrays represent N planks. More precisely, A[K] is the start and B[K] the end of the K−th plank.
 
@@ -66,7 +66,7 @@ expected worst-case time complexity is O((N+M)*log(M));
 expected worst-case space complexity is O(M), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A, B, C) {
     // write your code in JavaScript (Node.js 4.0.0)

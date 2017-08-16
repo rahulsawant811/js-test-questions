@@ -1,6 +1,6 @@
-Lesson 10 - Prime and composite numbers - MinPerimeterRectangle
+#Lesson 10 - Prime and composite numbers - MinPerimeterRectangle
 
-Task description
+#Task description
 
 An integer N is given, representing the area of some rectangle.
 
@@ -30,7 +30,7 @@ Complexity:
 expected worst-case time complexity is O(sqrt(N));
 expected worst-case space complexity is O(1).
 
-Code:
+#Code:
 
 function solution(N) {
     // write your code in JavaScript (Node.js 4.0.0)

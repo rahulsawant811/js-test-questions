@@ -1,6 +1,6 @@
-Lesson 9 - Maximum slice problem - MaxSliceSum
+#Lesson 9 - Maximum slice problem - MaxSliceSum
 
-Task description
+#Task description
 
 A non-empty zero-indexed array A consisting of N integers is given. A pair of integers (P, Q), such that 0 ≤ P ≤ Q < N, is called a slice of array A. The sum of a slice (P, Q) is the total of A[P] + A[P+1] + ... + A[Q].
 
@@ -31,7 +31,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

@@ -1,6 +1,7 @@
-Lesson 5 - Prefix Sums - PassingCars
+#Lesson 5 - Prefix Sums - PassingCars
 
-Task description
+#Task description
+
 A non-empty zero-indexed array A consisting of N integers is given. The consecutive elements of array A represent consecutive cars on a road.
 
 Array A contains only 0s and/or 1s:
@@ -45,7 +46,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

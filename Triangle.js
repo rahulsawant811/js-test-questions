@@ -1,6 +1,7 @@
-Lesson 6 - Sorting - MinAvgTwoSlice
+#Lesson 6 - Sorting - MinAvgTwoSlice
 
-Task description
+#Task description
+
 A zero-indexed array A consisting of N integers is given. A triplet (P, Q, R) is triangular if 0 ≤ P < Q < R < N and:
 
 A[P] + A[Q] > A[R],
@@ -38,7 +39,7 @@ expected worst-case time complexity is O(N*log(N));
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

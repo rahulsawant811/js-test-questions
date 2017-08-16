@@ -1,6 +1,6 @@
-Lesson 7 - Stacks and Queues - StoneWall
+#Lesson 7 - Stacks and Queues - StoneWall
 
-Task description
+#Task description
 
 You are going to build a stone wall. The wall should be straight and N meters long, and its thickness should be constant; however, it should have different heights in different places. The height of the wall is specified by a zero-indexed array H of N positive integers. H[I] is the height of the wall from I to I+1 meters to the right of its left end. In particular, H[0] is the height of the wall's left end and H[N−1] is the height of the wall's right end.
 
@@ -31,7 +31,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(H) {
     // write your code in JavaScript (Node.js 4.0.0)

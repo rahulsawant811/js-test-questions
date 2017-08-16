@@ -1,6 +1,7 @@
-Lesson 4 - Couting Elements - MaxCounters
+#Lesson 4 - Couting Elements - MaxCounters
 
-Task description
+#Task description
+
 You are given N counters, initially set to 0, and you have two possible operations on them:
 
 increase(X) − counter X is increased by 1,
@@ -62,7 +63,7 @@ expected worst-case time complexity is O(N+M);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(N, A) {
     // write your code in JavaScript (Node.js 4.0.0)

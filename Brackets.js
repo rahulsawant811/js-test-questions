@@ -1,6 +1,6 @@
-Lesson 7 - Stacks and Queues - Brackets
+#Lesson 7 - Stacks and Queues - Brackets
 
-Task description
+#Task description
 
 A string S consisting of N characters is considered to be properly nested if any of the following conditions is true:
 
@@ -26,7 +26,7 @@ Complexity:
 expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N) (not counting the storage required for input arguments).
 
-Code:
+#Code:
 
 function solution(S) {
     // write your code in JavaScript (Node.js 4.0.0)

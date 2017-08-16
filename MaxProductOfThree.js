@@ -1,6 +1,7 @@
-Lesson 6 - Sorting - MaxProductOfThree
+#Lesson 6 - Sorting - MaxProductOfThree
 
-Task description
+#Task description
+
 A non-empty zero-indexed array A consisting of N integers is given. The product of triplet (P, Q, R) equates to A[P] * A[Q] * A[R] (0 ≤ P < Q < R < N).
 
 For example, array A such that:
@@ -44,7 +45,7 @@ expected worst-case time complexity is O(N*log(N));
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

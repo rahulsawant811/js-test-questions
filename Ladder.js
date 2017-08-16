@@ -1,6 +1,6 @@
-Lesson 13 - Fibonacci numbers - Ladder
+#Lesson 13 - Fibonacci numbers - Ladder
 
-Task description
+#Task description
 
 You have to climb up a ladder. The ladder has exactly N rungs, numbered from 1 to N. With each step, you can ascend by one or two rungs. More precisely:
 
@@ -54,7 +54,7 @@ expected worst-case time complexity is O(L);
 expected worst-case space complexity is O(L), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A, B) {
     // write your code in JavaScript (Node.js 4.0.0)

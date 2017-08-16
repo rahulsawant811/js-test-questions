@@ -1,6 +1,7 @@
-Lesson 2 - Arrays - OddOccurrencesInArray
+#Lesson 2 - Arrays - OddOccurrencesInArray
 
-Task description
+#Task description
+
 A non-empty zero-indexed array A consisting of N integers is given. The array contains an odd number of elements, and each element of the array can be paired with another element that has the same value, except for one element that is left unpaired.
 
 For example, in array A such that:
@@ -36,7 +37,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 
 function solution(A) {

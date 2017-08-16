@@ -1,6 +1,6 @@
-Lesson 13 - Fibonacci numbers - FibFrog
+#Lesson 13 - Fibonacci numbers - FibFrog
 
-Task description
+#Task description
 
 The Fibonacci sequence is defined using the following recursive formula:
 
@@ -61,7 +61,7 @@ expected worst-case time complexity is O(N*log(N));
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

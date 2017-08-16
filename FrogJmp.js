@@ -1,6 +1,7 @@
-Lesson 3 - Time Complexity - FrogJmp
+#Lesson 3 - Time Complexity - FrogJmp
 
-Task description
+#Task description
+
 A small frog wants to get to the other side of the road. The frog is currently located at position X and wants to get to a position greater than or equal to Y. The small frog always jumps a fixed distance, D.
 
 Count the minimal number of jumps that the small frog must perform to reach its target.
@@ -30,7 +31,7 @@ Complexity:
 expected worst-case time complexity is O(1);
 expected worst-case space complexity is O(1).
 
-Code:
+#Code:
 
 function solution(X, Y, D) {
     // write your code in JavaScript (Node.js 4.0.0)

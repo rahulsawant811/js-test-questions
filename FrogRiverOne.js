@@ -1,6 +1,7 @@
-Lesson 4 - Couting Elements - FrogRiverOne
+#Lesson 4 - Couting Elements - FrogRiverOne
 
-Task description
+#Task description
+
 A small frog wants to get to the other side of a river. The frog is initially located on one bank of the river (position 0) and wants to get to the opposite bank (position X+1). Leaves fall from a tree onto the surface of the river.
 
 You are given a zero-indexed array A consisting of N integers representing the falling leaves. A[K] represents the position where one leaf falls at time K, measured in seconds.
@@ -49,7 +50,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(X), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(X, A) {
     // write your code in JavaScript (Node.js 4.0.0)

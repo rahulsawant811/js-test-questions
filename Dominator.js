@@ -1,6 +1,6 @@
-Lesson 8 - Leader - Dominator
+#Lesson 8 - Leader - Dominator
 
-Task description
+#Task description
 
 A zero-indexed array A consisting of N integers is given. The dominator of array A is the value that occurs in more than half of the elements of A.
 
@@ -34,7 +34,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(1), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)

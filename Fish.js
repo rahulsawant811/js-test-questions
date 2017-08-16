@@ -1,6 +1,6 @@
-Lesson 7 - Stacks and Queues - Fish
+#Lesson 7 - Stacks and Queues - Fish
 
-Task description
+#Task description
 
 You are given two non-empty zero-indexed arrays A and B consisting of N integers. Arrays A and B represent N voracious fish in a river, ordered downstream along the flow of the river.
 
@@ -45,7 +45,7 @@ expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 
-Code:
+#Code:
 
 function solution(A, B) {
     // write your code in JavaScript (Node.js 4.0.0)
