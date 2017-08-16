@@ -1,24 +1,24 @@
 https://gist.github.com/lalkmim
 
-Lesson 1 - Iterations
+Lesson 1 - Iterations - Complete
 - BinaryGap - https://codility.com/demo/results/trainingU2FQPQ-7Y4/
 
-Lesson 2 - Arrays
+Lesson 2 - Arrays - Complete
 - OddOccurrencesInArray - https://codility.com/demo/results/trainingFN5RVT-XQ4/
 - CyclicRotation - https://codility.com/demo/results/trainingSH2W5R-RP5/
 
-Lesson 3 - Time Complexity
+Lesson 3 - Time Complexity - Complete
 - FrogJmp - https://codility.com/demo/results/training6KKWUD-BXJ/
 - PermMissingElem - https://codility.com/demo/results/training58W4YJ-VHA/
 - TapeEquilibrum - https://codility.com/demo/results/trainingHMJHCT-9BX/
 
-Lesson 4 - Couting Elements
+Lesson 4 - Couting Elements - Complete
 - MissingInteger - https://codility.com/demo/results/trainingPBJ5G7-2QB/
 - FrogRiverOne - https://codility.com/demo/results/trainingVKFWNJ-84P/
 - PermCheck - https://codility.com/demo/results/trainingN4XJDP-QJ6/
 - MaxCounters - https://codility.com/demo/results/trainingQ3KEC6-S4T/
 
-Lesson 5 - Prefix Sums
+Lesson 5 - Prefix Sums - Complete
 - CountDiv - https://codility.com/demo/results/trainingGBF99N-YHX/
 - PassingCars - https://codility.com/demo/results/trainingAR78MG-6TF/
 - GenomicRangeQuery - https://codility.com/demo/results/trainingZ47Q2A-CUW/
