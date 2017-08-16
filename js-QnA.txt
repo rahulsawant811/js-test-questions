@@ -45,7 +45,7 @@ Lesson 9 - Maximum slice problem - Complete
 - MaxProfit - https://codility.com/demo/results/training34TMJW-JT9/
 - MaxSliceSum - https://codility.com/demo/results/trainingTXHJSZ-DXF/
 
-Lesson 10 - Prime and composite numbers
+Lesson 10 - Prime and composite numbers - Complete
 - MinPerimeterRectangle - https://codility.com/demo/results/trainingW4XUWT-EXR/
 - CountFactors - https://codility.com/demo/results/trainingGU5FEX-WD4/
 - Flags - https://codility.com/demo/results/training97DBAE-GKV/
@@ -59,11 +59,11 @@ Lesson 12 - Euclidean algorithm
 - ChocolatesByNumber - https://codility.com/demo/results/trainingSXZ3KT-MV4/
 - CommonPrimeDivisors - https://codility.com/demo/results/training9X2VFQ-6HC/
 
-Lesson 13 - Fibonacci numbers
+Lesson 13 - Fibonacci numbers - Complete
 - FibFrog - https://codility.com/demo/results/trainingUZV28E-F7P/
 - Ladder - https://codility.com/demo/results/trainingZXRA9N-33G/
 
-Lesson 14 - Binary search algorithm
+Lesson 14 - Binary search algorithm - Complete
 - MinMaxDivision - https://codility.com/demo/results/trainingHA5ZGD-H6G/
 - NailingPlanks - https://codility.com/demo/results/trainingEW83KS-F3M/
 
